@@ -217,7 +217,8 @@ jobs:
 - Если ваш **Workflow** стал красным - исправьте ошибки и запуштесь снова
 - Вывод — Hello from PHP in Docker! 🐳
 
-![Скрин](/content/DevOps/CI_CD/img/15_workflow.png)
+<img width="1039" height="418" alt="изображение" src="https://github.com/user-attachments/assets/37d5ca99-a2d7-4a4b-81e2-7f9b14103b08" />
+
 
 ### 8. Проверить сборку Docker-образа локально
 
